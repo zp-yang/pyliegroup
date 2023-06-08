@@ -1,2 +1,2 @@
-# pyliegroup
-Matrix Lie Group implmenented in python
+# Python implementation of SO3 and SE3
+Work in progress
